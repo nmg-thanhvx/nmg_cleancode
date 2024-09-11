@@ -14,12 +14,7 @@ If you liked `clean-code-dotnet` project or if it helped you, please give a star
   - [Functions](#functions)
   - [Objects and Data Structures](#objects-and-data-structures)
   - [Classes](#classes)
-  - [SOLID](#solid)
-  - [Testing](#testing)
-  - [Concurrency](#concurrency)
-  - [Error Handling](#error-handling)
-  - [Formatting](#formatting)
-  - [Comments](#comments)
+ 
 
 
 # Introduction
