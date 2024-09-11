@@ -1,8 +1,8 @@
-# Clean Code concepts adapted for .NET/.NET Core
+# Clean Code 
 
 If you liked `clean-code-dotnet` project or if it helped you, please give a star :star: for this repository. That will not only help strengthen our .NET community but also improve skills about the clean code for .NET developers in around the world. Thank you very much :+1:
 
-Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
+
 
 # Table of Contents
 
