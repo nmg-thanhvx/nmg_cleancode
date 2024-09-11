@@ -6,10 +6,9 @@ If you liked `clean-code-dotnet` project or if it helped you, please give a star
 
 # Table of Contents
 
-- [Clean Code concepts adapted for .NET/.NET Core](#clean-code-concepts-adapted-for-netnet-core)
-- [Table of Contents](#table-of-contents)
+
 - [Introduction](#introduction)
-- [Clean Code .NET](#clean-code-net)
+- [Clean Code Tips](#clean-code-net)
   - [Naming](#naming)
   - [Variables](#variables)
   - [Functions](#functions)
