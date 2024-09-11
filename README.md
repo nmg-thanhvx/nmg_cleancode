@@ -20,15 +20,7 @@ If you liked `clean-code-dotnet` project or if it helped you, please give a star
   - [Error Handling](#error-handling)
   - [Formatting](#formatting)
   - [Comments](#comments)
-- [Other Clean Code Resources](#other-clean-code-resources)
-  - [Other Clean Code Lists](#other-clean-code-lists)
-  - [Style Guides](#style-guides)
-  - [Tools](#tools)
-  - [Cheatsheets](#cheatsheets)
-- [Contributors](#contributors)
-- [Backers](#backers)
-- [Sponsors](#sponsors)
-- [License](#license)
+
 
 # Introduction
 
